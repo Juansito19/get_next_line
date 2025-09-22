@@ -1,5 +1,7 @@
 # get_next_line
 
+[Ir a Español](#espa%C3%B1ol) | [Go to English](#english)
+
 **Español**
 
 **get_next_line** es un proyecto que consiste en implementar una función en C llamada `get_next_line`, que permite leer una línea de un archivo cada vez que se llama. Esta función es útil para procesar archivos de texto línea por línea, gestionando internamente un buffer eficiente y permitiendo múltiples descriptores de archivo abiertos simultáneamente.
